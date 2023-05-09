@@ -14,4 +14,9 @@ class MahasiswaController extends \yii\web\Controller
         return $this->render('profil');
     }
 
+    public function actionBatalKrs($id)
+    {
+        return "<h1>HEHEHEHE ID" . $id . "</h1>";
+    }
+
 }
