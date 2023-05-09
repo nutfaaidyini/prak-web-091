@@ -16,7 +16,7 @@ class MahasiswaController extends \yii\web\Controller
 
     public function actionBatalKrs($id)
     {
-        return "<h1>HEHEHEHE ID" . $id . "</h1>";
+        return "<h1>HEHEHE ID" . $id . "</h1>";
     }
 
 }
