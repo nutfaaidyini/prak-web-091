@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 
 /** @var yii\web\View $this */
 
@@ -15,4 +15,4 @@ $this->params['breadcrumbs'][] = $this->title;
     </p>
 
     <code><?= __FILE__ ?></code>
-</div>
+</div> -->
